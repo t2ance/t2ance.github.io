@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Peijia Qin / Homepage"
+title                    : "Peijia Qin"
 title_separator          : "-"
 name                     : &name "Peijia Qin"
 description              : &description "personal description"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "I'm Peijia Qin, a senior undergraduate student at SUSTech"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology"
+  employer         : "Southern University of Science \\ and Technology"
   uri              : # URL
   email            : "qinpj2021@mail.sustech.edu.cn"
 
