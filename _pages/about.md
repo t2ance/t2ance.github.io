@@ -16,7 +16,17 @@ During my study at UCSD, I did internship with Professor [Pengtao Xie](https://p
 
 My research interests center on machine learning and its application in a wide range of fields, including computer vision, natural language processing, data mining, and dynamic systems.
 **I am looking for a PhD position beginning from 2025 fall in related field of my research interests.**
-Please refer to my [curriculum vitae](https://t2ance.github.io/files/Curriculum-Vitae.pdf)
+Please refer to my [curriculum vitae](https://t2ance.github.io/files/Curriculum-Vitae.pdf) and [statement of purpose]() on details about my research interests.
+
+# Education
+
+Bachelor of Computer Science and Technology, Southern University of Science and Technology
+- Sep 2021 - June 2025 (Expected)
+- [Transcript](https://t2ance.github.io/files/Transcript.pdf)
+
+Visiting Student, University of California San Diego
+- Mar 2024 - Jun 2024}
+- [Transcript](https://t2ance.github.io/files/Transcript-UCSD.pdf)
 
 # Publications and Preprints
 
@@ -37,7 +47,7 @@ adaptation. Under review at ICLR2025.
 
 # More
 - I'm a big fan of Math and have tried study every aspect that are interesting to me (And how them can be used to improve machine learning methods).
-See my [transcript](https://t2ance.github.io/files/Transcript-UCSD.pdf) when I was a visiting student at UCSD.   
+See the [courses](https://t2ance.github.io/files/Transcript-UCSD.pdf) I've taken when I was a visiting student at UCSD.   
 - 
 - I participated in the iGEM 2023 competition and honored to have joined the team SUSTech-CHINA.
 See our wiki [here](https://2023.igem.wiki/sustech-china/) and my certificate [here](https://t2ance.github.io/files/igem-2023-certificates.pdf).
