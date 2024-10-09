@@ -113,9 +113,10 @@
   }
 
   img {
-    width: 36px;
-    height: 36px;
-    object-fit: cover;
+    //width: 36px;
+    //height: 36px;
+    //object-fit: cover;
+    max-width: 175px;
     border-radius: 0; // 去掉圆形边框
 
     @include breakpoint($large) {
