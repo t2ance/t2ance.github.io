@@ -24,8 +24,8 @@ Bachelor of Computer Science and Technology, Southern University of Science and 
 - Sep 2021 - June 2025 (Expected)
 - [Transcript](https://t2ance.github.io/files/Transcript.pdf)
 
-Visiting Student, University of California San Diego
-- Mar 2024 - Jun 2024}
+Visiting Student, University of California, San Diego
+- Mar 2024 - Jun 2024
 - [Transcript](https://t2ance.github.io/files/Transcript-UCSD.pdf)
 
 # Publications and Preprints
@@ -37,10 +37,8 @@ imbalance learning with dynamic evolutionary cost vector. Transactions on Machin
 
 **Currently Under Review:**
 
-- **Peijia Qin** and Jianguo Zhang. MQ-VAE: Training vector-quantized networks via meta learning. Under
-review at ICLR2025.
-- **Peijia Qin**, Ruiyi Zhang, and Pengtao Xie. BiDoRA: Bi-level optimization-based weight-decomposed low-rank
-adaptation. Under review at ICLR2025.
+- **Peijia Qin** and Jianguo Zhang. MQ-VAE: Training vector-quantized networks via meta learning. Under review at ICLR 2025.
+- **Peijia Qin**, Ruiyi Zhang, and Pengtao Xie. BiDoRA: Bi-level optimization-based weight-decomposed low-rank adaptation. Under review at ICLR 2025.
 
 # Academic Services
 - Reviewer: ICLR
