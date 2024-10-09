@@ -12,7 +12,7 @@ title                    : "Peijia Qin"
 title_separator          : "-"
 name                     : &name "Peijia Qin"
 description              : &description "personal description"
-url                      : https://t2ance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://t2ance.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "t2ance/t2ance.github.io"
 
