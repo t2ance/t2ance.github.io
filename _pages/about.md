@@ -35,7 +35,7 @@ For more details, please refer to my [curriculum vitae](https://t2ance.github.io
 **Currently Under Review:**
 
 - **Peijia Qin** and Jianguo Zhang. MQ-VAE: Training Vector-Quantized Networks via Meta Learning. Under review at ICLR 2025.
-- **Peijia Qin**, Ruiyi Zhang, and Pengtao Xie. BiDoRA: Bi-Level Optimization-Based Weight-Decomposed Low-Rank Adaptation. Under review at ICLR 2025.
+- **Peijia Qin**, Ruiyi Zhang, and Pengtao Xie. BiDoRA: Bi-Level Optimization-Based Weight-Decomposed Low-Rank Adaptation. Under review at ICLR 2025. Arxiv link: https://arxiv.org/abs/2410.09758
 
 # Academic Services
 - Reviewer: ICLR
